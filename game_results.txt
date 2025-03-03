@@ -1,0 +1,16 @@
+Partida #0 - Vencedor: euclides
+Pontuação Atual: thyago: 0 euclides: 1 gabriel: 0 jose: 0
+Coelhos: 0, Gatos: 0
+--------------------------------------------------
+Partida #0 - Vencedor: Jogador 2
+Pontuação Atual: Jogador 4: 0 Jogador 3: 0 Jogador 2: 1 Jogador 1: 0
+Coelhos: 0, Gatos: 0
+	
+Partida #0 - Vencedor: gabriel
+Pontuação Atual: euclides: 0 thyago: 0 gabriel: 1 luci: 0
+Coelhos: 0, Gatos: 0
+	
+Partida #0 - Vencedor: gabriel
+Pontuação Atual: thyago: 0 euclides: 0 gabriel: 1 luci: 0
+Coelhos: 0, Gatos: 0
+	
